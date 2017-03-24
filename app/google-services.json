@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "716410541666",
+    "firebase_url": "https://projeto-aula-android.firebaseio.com",
+    "project_id": "projeto-aula-android",
+    "storage_bucket": "projeto-aula-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716410541666:android:a3977a963d4f8421",
+        "android_client_info": {
+          "package_name": "br.com.momberg.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716410541666-mqagmpgsiedkvmu266ncoe74f1n1iefe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WHgCn5DkhYAVpEbkg8zCqiYSTDy9TXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
